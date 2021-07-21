@@ -27,6 +27,7 @@ class Interaction
         'relation',
         'relation_value',
         'relation_type',
+        'notes',
         'created_at'
     ];
 
